@@ -1,7 +1,6 @@
 
 
-## Greetings, esteemed reader!
-
+ Greetings, esteemed reader!
 ---
 
 _Welcome to my humble corner of the web! Let me briefly tell you about myself and my hobbies. I hope you will find it interesting!_
